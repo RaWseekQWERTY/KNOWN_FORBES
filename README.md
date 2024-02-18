@@ -1,6 +1,6 @@
 ### KNOWNFOBRES
 ## Java Application about Billionaires
-##Features
+## Features
 * CRUD
 * Binary Search
 * Merge sort
@@ -8,5 +8,5 @@
 * Selection sort
 * Bubble sort
   <p align="center">
-  <img src="Screenshot 2024-02-18 124005.png" width="350" title="SCREENSHOT">
+  <img src="Screenshot 2024-02-18 124005.png" width="800" title="SCREENSHOT">
 </p>
