@@ -7,4 +7,4 @@
 * Insertion Sort
 * Selection sort
 * Bubble sort
-  ![Uploading image.png…]()
+Screenshot 2024-02-18 124005.png
