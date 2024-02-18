@@ -8,7 +8,5 @@
 * Selection sort
 * Bubble sort
   <p align="center">
-  <img src="Screenshot 2024-02-18 124005.png" width="350" title="">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="Screenshot 2024-02-18 124005.png" width="350" title="SCREENSHOT">
 </p>
-Screenshot 2024-02-18 124005.png
